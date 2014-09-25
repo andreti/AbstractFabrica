@@ -1,0 +1,9 @@
+c:\users\sistemas\documents\visual studio 2010\Projects\AbstractFactoryAuto\AbstractFactoryAuto\bin\Debug\AbstractFactoryAuto.exe
+c:\users\sistemas\documents\visual studio 2010\Projects\AbstractFactoryAuto\AbstractFactoryAuto\bin\Debug\AbstractFactoryAuto.pdb
+c:\users\sistemas\documents\visual studio 2010\Projects\AbstractFactoryAuto\AbstractFactoryAuto\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\sistemas\documents\visual studio 2010\Projects\AbstractFactoryAuto\AbstractFactoryAuto\obj\x86\Debug\AbstractFactoryAuto.Cliente.resources
+c:\users\sistemas\documents\visual studio 2010\Projects\AbstractFactoryAuto\AbstractFactoryAuto\obj\x86\Debug\AbstractFactoryAuto.Properties.Resources.resources
+c:\users\sistemas\documents\visual studio 2010\Projects\AbstractFactoryAuto\AbstractFactoryAuto\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\sistemas\documents\visual studio 2010\Projects\AbstractFactoryAuto\AbstractFactoryAuto\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\sistemas\documents\visual studio 2010\Projects\AbstractFactoryAuto\AbstractFactoryAuto\obj\x86\Debug\AbstractFactoryAuto.exe
+c:\users\sistemas\documents\visual studio 2010\Projects\AbstractFactoryAuto\AbstractFactoryAuto\obj\x86\Debug\AbstractFactoryAuto.pdb
